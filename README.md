@@ -36,4 +36,4 @@ If you run ls -lh on the final binaries, you will observe the following sizes:
 
 🔗 Blog Post
 For a full explanation of how this works, check out the accompanying blog post:
-[Dissecting Hello World: Removing printf, libc, and main]()
+[Dissecting Hello World: Removing printf, libc, and main](https://dev.to/rahul_41b30fddce76b444c2b/dissecting-hello-world-removing-printf-libc-and-main-35k0)
